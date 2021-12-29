@@ -1,1 +1,1 @@
-# cdg_soltaire
+# cdg_solitaire
